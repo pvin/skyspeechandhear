@@ -1,0 +1,5 @@
+source :rubygems
+
+
+gem 'rack'
+gem 'rails_12factor'
